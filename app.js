@@ -11,3 +11,13 @@ else if(size === "M") {
 else {
     console.log("size not available");
 }
+//Practice qs2
+let string = "aeroplane";
+if( string[0] ==='a' && string.length > 3) {
+    console.log("string is good");
+}
+else {
+    console.log("string is not good");
+}
+
+
